@@ -1,0 +1,19 @@
+.card {
+  padding: 16px 24px;
+  background-color: white;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  width: 24%;
+  text-align: center;
+}
+.card p {
+  padding: 8px 16px;
+  color: rgb(172, 172, 172);
+}
+.card img {
+  width: 70%;
+  margin: 16px 24px;
+}
+.card-container {
+  display: flex;
+  justify-content: space-evenly;
+}
