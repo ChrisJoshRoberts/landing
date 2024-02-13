@@ -28,3 +28,13 @@
   background-color: rgb(213, 213, 213);
   color: white;
 }
+@media (max-width: 430px) {
+  .banner a {
+    width: 80%;
+  }
+}
+@media (max-width: 375px) {
+  .banner{
+    height: 70vh;
+  }
+}
